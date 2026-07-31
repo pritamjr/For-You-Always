@@ -4,7 +4,6 @@
   "private": true,
   "type": "module",
 
-  "homepage": "https://pritamjr.github.io/For-You-Always",
  "scripts": {
     "dev": "vite",
     "build": "vite build",
