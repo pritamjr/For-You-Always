@@ -58,7 +58,6 @@ export default function Surprise() {
   };
 
   const surpriseText = "You are the best gift I could ever ask for. Get ready for a lifetime of memories, love, and fun with me!";
-  const text = "Or replace this with your actual surprise coupon/message";
 
   return (
     <div className="min-h-screen flex items-center justify-center p-4 relative overflow-hidden bg-gradient-to-br from-rose-50 via-pink-50 to-purple-50">
@@ -403,8 +402,9 @@ export default function Surprise() {
                 <p className="text-lg md:text-xl text-gray-700 leading-relaxed font-body px-4">
                   {surpriseText}
                 </p>
+                {/* Fixed: Removed the undefined {text} variable and added a nice message instead */}
                 <p className="text-sm text-gray-400 italic px-4">
-                  ({text})
+                  💕 With all my love, forever and always 💕
                 </p>
               </motion.div>
 
