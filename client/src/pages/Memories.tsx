@@ -87,7 +87,7 @@ export default function Memories() {
       url: "/WhatsApp Image 2026-07-30 at 11.25.05 PM (2).jpeg",
       type: "image",
       caption: "Beautiful moments",
-      date: "July 2026",
+      date: "Monsoon 2026",
       rotation: 3
     },
     {
