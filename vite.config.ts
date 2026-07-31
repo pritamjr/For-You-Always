@@ -4,6 +4,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
+  base: "/For-You-Always/",
 
   root: path.resolve(__dirname, "client"),
 
