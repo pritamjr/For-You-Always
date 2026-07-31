@@ -58,6 +58,10 @@ export default function Surprise() {
   };
 
   const surpriseText = "You are the best gift I could ever ask for. Get ready for a lifetime of memories, love, and fun with me!";
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 258d75400e7b702f89286ccd619e08e1e5bdeace
 
   return (
     <div className="min-h-screen flex items-center justify-center p-4 relative overflow-hidden bg-gradient-to-br from-rose-50 via-pink-50 to-purple-50">
