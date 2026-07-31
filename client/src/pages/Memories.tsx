@@ -87,7 +87,7 @@ export default function Memories() {
       url: "/WhatsApp Image 2026-07-30 at 11.25.05 PM (2).jpeg",
       type: "image",
       caption: "Beautiful moments",
-      date: "Spring 2023",
+      date: "July 2026",
       rotation: 3
     },
     {
@@ -103,7 +103,7 @@ export default function Memories() {
       url: "/WhatsApp Image 2026-07-31 at 12.05.44 AM.jpeg",
       type: "image",
       caption: "Having fun",
-      date: "Summer Vacation",
+      date: "Photobooth",
       rotation: 2
     },
     {
@@ -111,7 +111,7 @@ export default function Memories() {
       url: "/WhatsApp Image 2026-07-30 at 11.25.09 PM (1).jpeg",
       type: "image",
       caption: "Surprises",
-      date: "Your Birthday",
+      date: "Second Date",
       rotation: 5
     },
     {
@@ -119,7 +119,7 @@ export default function Memories() {
       url: "/WhatsApp Image 2026-07-30 at 11.25.05 PM (1).jpeg",
       type: "image",
       caption: "Coffee dates",
-      date: "Every Weekend",
+      date: "Weekend Fun",
       rotation: -3
     }
   ];
