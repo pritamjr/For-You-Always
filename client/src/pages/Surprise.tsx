@@ -57,7 +57,7 @@ export default function Surprise() {
     })();
   };
 
-  const surpriseText = "You are the best gift I could ever ask for. Get ready for a special dinner tonight!";
+  const surpriseText = "You are the best gift I could ever ask for. Get ready for a lifetime of memories, love, and fun with me!";
   const text = "Or replace this with your actual surprise coupon/message";
 
   return (
